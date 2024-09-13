@@ -16,7 +16,7 @@ La aplicación sigue los siguientes pasos para generar respuestas a tus pregunta
 
 ## Instalación
 
-Sigue estos pasos para instalar MultiPDF Chat App:
+Sigue estos pasos para instalar la app:
 
 1. Clona el repositorio en tu máquina local:
 
@@ -38,7 +38,7 @@ Sigue estos pasos para instalar MultiPDF Chat App:
 
 ## Uso
 
-Para utilizar la MultiPDF Chat App, sigue estos pasos:
+Para utilizar la app, sigue estos pasos:
 
 1. Asegúrate de haber instalado las dependencias requeridas y haber añadido la clave API de OpenAI en el archivo `.env`.
 
@@ -57,7 +57,3 @@ Para utilizar la MultiPDF Chat App, sigue estos pasos:
 ## Contribuciones
 
 Si quieres contribuir al proyecto, siéntete libre de abrir un issue o enviar un pull request.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
